@@ -1,0 +1,6 @@
+[00:01:03]: [Join Announcement] 花开花落两由之
+[00:02:38]: [Join Announcement] 谢谢欣欣请我打游戏
+[00:04:27]: [Say] (KU_0vPtVG_4) 花开花落两由之: wodewenti
+[00:04:32]: [Say] (KU_0vPtVG_4) 花开花落两由之: 感觉还是没搞对
+[00:05:13]: [Leave Announcement] 谢谢欣欣请我打游戏
+[00:05:29]: [Leave Announcement] 花开花落两由之
